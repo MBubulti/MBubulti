@@ -1,5 +1,5 @@
 - 👋 Bonjour je suis Maxime BUFFET
-- 👀 I’m interested in ...
+- 👀 Je suis curieux d'en découvrir plus sur le secteur du numérique et plus particulièrement dans le développement.
 - 🌱 Je suis entrain de découvrir le développement web
 
 <!---
